@@ -103,7 +103,7 @@ You can run this project in Gitpod, a one-click online IDE for GitHub:
 
 The following video shows how you can install this extension on Gitpod.
 
-[![Video](./assets/youtube.svg)](https://youtu.be/XXXXXXXX)
+[![Video](./assets/youtube.svg)](https://youtu.be/jrUTdcDwqwo)
 
 ## 📂 Code Scaffolding
 

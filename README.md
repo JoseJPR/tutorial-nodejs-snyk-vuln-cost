@@ -28,14 +28,10 @@ First of all I leave you a list of the main features of the extensión **Vuln Co
 
 An Open Source security scanner for VS Code. Detect vulnerabilities in third-party open source packages automatically while you code..
 
-* **Find security vulnerabilities in the npm packages you import** \
-  See the number of known vulnerabilities in your imported npm packages as soon as you require them!.
-* **See your project vulnerabilities inline, as you code** \
-  See feedback directly in your editor. Vuln Cost displays the number of vulnerabilities your packages add to your project.
-* **Find security vulnerabilities in your JavaScript packages from well-known CDNs** \
-  Vuln Cost scans any HTML files in your projects and displays vulnerability information about the JavaScript packages you download from your favorite CDN.
-* **See in-depth information about your vulnerabilities** \
-  Access relevant resources that will give you deeper information about the vulnerabilities that directly affect your project.
+* **Find security vulnerabilities in the npm packages you import**
+* **See your project vulnerabilities inline, as you code**
+* **Find security vulnerabilities in your JavaScript packages from well-known CDNs**
+* **See in-depth information about your vulnerabilities**
 
 Homepage: [Snyk | Vuln Cost](https://snyk.io/security-scanner-vuln-cost/) \
 VSCode Extension: [Visual Studio Code | Vuln Cost](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost)
@@ -46,12 +42,9 @@ Snyk empowers software-driven businesses to develop fast and stay secure.
 
 Snyk’s unique combination of developer-first tooling and best in class security depth enables businesses to easily build security into their continuous development process.
 
-* **Developer-first security** \
-  Giving developers a security tool they use and love.
-* **Automated remediation** \
-  Powerful fix advice and automation that enables security at scale and speed.
-* **Leading vulnerability database** \
-  Hand-curated, enriched and first to publish vulnerability content.
+* **Developer-first security**
+* **Automated remediation**
+* **Leading vulnerability database**
 
 Website Company: [Snyk](https://snyk.io/)
 
@@ -89,12 +82,15 @@ If we update them by these others or higher versions, the vulnerabilities will d
 ### 📹 Demos with VSCode
 
 The following video shows how you can install this extension on your VSCode.
+
 [![Video](./assets/youtube.svg)](https://youtu.be/1_ptjvhxH1s)
 
 The require of JavaScript libraries and how to check vulnerabilities.
+
 [![Video](./assets/youtube.svg)](https://youtu.be/gfi0WC6j8Qk)
 
 The import of JavaScript libraries and how to check vulnerabilities.
+
 [![Video](./assets/youtube.svg)](https://youtu.be/wI4PF-BuM-g)
 
 ## ⛅️ How to work with this project in Gitpod
@@ -106,6 +102,7 @@ You can run this project in Gitpod, a one-click online IDE for GitHub:
 ### 📹 Demo with Gitpod
 
 The following video shows how you can install this extension on Gitpod.
+
 [![Video](./assets/youtube.svg)](https://youtu.be/XXXXXXXX)
 
 ## 📂 Code Scaffolding

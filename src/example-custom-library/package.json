@@ -1,0 +1,11 @@
+{
+  "name": "example-custom-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "my-library": "./my-library"
+  }
+}

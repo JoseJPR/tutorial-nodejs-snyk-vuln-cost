@@ -25,7 +25,7 @@
 First of all I leave you a list of the main features of the extensión **Vuln Cost** and **Snyk**, the company that has developed and published it as **OpenSource**.
 
 <p align="center">
-  <img src="assets/demo.gif" width="600" />
+  <img src="assets/demo.gif" />
 </p>
 
 ### Vuln Cost: Security Scanner for VS Code

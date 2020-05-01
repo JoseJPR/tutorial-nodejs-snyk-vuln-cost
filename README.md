@@ -37,7 +37,7 @@ An Open Source security scanner for VS Code. Detect vulnerabilities in third-par
 * **See in-depth information about your vulnerabilities** \
   Access relevant resources that will give you deeper information about the vulnerabilities that directly affect your project.
 
-Homepage: [Snyk | Vuln Cost](https://snyk.io/security-scanner-vuln-cost/)
+Homepage: [Snyk | Vuln Cost](https://snyk.io/security-scanner-vuln-cost/) \
 VSCode Extension: [Visual Studio Code | Vuln Cost](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost)
 
 ### Snyk: helps you use open source and stay secure
@@ -89,13 +89,13 @@ If we update them by these others or higher versions, the vulnerabilities will d
 ### 📹 Demos with VSCode
 
 The following video shows how you can install this extension on your VSCode.
-
 [![Video](./assets/youtube.svg)](https://youtu.be/1_ptjvhxH1s)
 
-And this other video shows how to work with the extension with VSCode.
+The require of JavaScript libraries and how to check vulnerabilities.
+[![Video](./assets/youtube.svg)](https://youtu.be/gfi0WC6j8Qk)
 
-Working with "require": [![Video](./assets/youtube.svg)](https://youtu.be/gfi0WC6j8Qk)
-Working with "import": [![Video](./assets/youtube.svg)](https://youtu.be/wI4PF-BuM-g) \
+The import of JavaScript libraries and how to check vulnerabilities.
+[![Video](./assets/youtube.svg)](https://youtu.be/wI4PF-BuM-g)
 
 ## ⛅️ How to work with this project in Gitpod
 
@@ -106,7 +106,6 @@ You can run this project in Gitpod, a one-click online IDE for GitHub:
 ### 📹 Demo with Gitpod
 
 The following video shows how you can install this extension on Gitpod.
-
 [![Video](./assets/youtube.svg)](https://youtu.be/XXXXXXXX)
 
 ## 📂 Code Scaffolding

@@ -20,13 +20,13 @@
   <br />
 </p>
 
-## 🔖 Description
-
-First of all I leave you a list of the main features of the extensión **Vuln Cost** and **Snyk**, the company that has developed and published it as **OpenSource**.
-
 <p align="center">
   <img src="assets/video.gif" />
 </p>
+
+## 🔖 Description
+
+First of all I leave you a list of the main features of the extensión **Vuln Cost** and **Snyk**, the company that has developed and published it as **OpenSource**.
 
 ### Vuln Cost: Security Scanner for VS Code
 
